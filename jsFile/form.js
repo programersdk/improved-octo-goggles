@@ -1,0 +1,5 @@
+document.getElementById("studentName")
+document.getElementById("courseApplied")
+document.getElementById("FatherName")
+document.getElementById("NumberPhoun")
+document.getElementById("address")
